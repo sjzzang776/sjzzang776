@@ -29,7 +29,7 @@
 |---|---|
 | **[pytorch-dl-study-notes](https://github.com/sjzzang776/pytorch-dl-study-notes)** | 「딥 러닝 파이토치 교과서」 스터디 장별 정리 노트 |
 | **[brain-alpha-log](https://github.com/sjzzang776/brain-alpha-log)** | WorldQuant BRAIN 알파 주간 기록: 아이디어 → 설정 → 결과 → 그렇게 나온 이유 |
-| **정수 튜플과 타원곡선 연구** 🔒 | 튜플로 생성되는 rank가 높은 타원곡선을 찾는 연구 (진행 중, 비공개) |
+| **Integer Tuples and Elliptic Curves** 🔒 | Searching for high-rank elliptic curves generated from integer tuples (in progress, private) |
 
 ### Side Tools
 
