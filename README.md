@@ -34,7 +34,7 @@
 | Repository | Description |
 |---|---|
 | **[pytorch-dl-study-notes](https://github.com/sjzzang776/pytorch-dl-study-notes)** | 「딥 러닝 파이토치 교과서」 스터디 장별 정리 노트 |
-| **[TDA 스터디: homology · persistent homology · 주가 TDA pipeline의 '왜'](https://github.com/sjzzang776/tda-korea-market)** | Hatcher 2장 중 TDA에 필요한 homology, persistent homology(filtration·structure theorem·stability·landscape), 그리고 Gidea–Katz의 주가 TDA pipeline을 단계마다 왜 그렇게 하는지 point cloud 실험으로 확인한 노트 3편(영·한)과 노트북 |
+| **[TDA](https://github.com/sjzzang776/tda-korea-market)** | Homology, persistent homology, and a study of the Gidea–Katz pipeline (노트 3편 영·한, 노트북) |
 | **[brain-alpha-log](https://github.com/sjzzang776/brain-alpha-log)** | WorldQuant BRAIN 알파 주간 기록: 아이디어 → 설정 → 결과 → 그렇게 나온 이유 |
 | **Integer Tuples and Elliptic Curves** 🔒 | Searching for high-rank elliptic curves generated from integer tuples (in progress, private) |
 
