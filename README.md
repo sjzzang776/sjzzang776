@@ -33,7 +33,7 @@
 
 | Repository | Description |
 |---|---|
-| **[pytorch-dl-study-notes](https://github.com/sjzzang776/pytorch-dl-study-notes)** | 「딥 러닝 파이토치 교과서」 스터디 장별 정리 노트 |
+| **[pytorch-dl-study-notes](https://github.com/sjzzang776/pytorch-dl-study-notes)** | NLP 스터디 |
 | **[TDA](https://github.com/sjzzang776/tda-korea-market)** | Homology, persistent homology, and a study of the Gidea–Katz pipeline |
 | **[brain-alpha-log](https://github.com/sjzzang776/brain-alpha-log)** | WorldQuant BRAIN 알파 주간 기록: 아이디어 → 설정 → 결과 → 그렇게 나온 이유 |
 | **Integer Tuples and Elliptic Curves** 🔒 | Searching for high-rank elliptic curves generated from integer tuples (in progress, private) |
